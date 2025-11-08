@@ -27,7 +27,7 @@ As principais tecnologias utilizadas neste projeto:
 
 | Categoria | Tecnologias Principais |
 | :--- | :--- | 
-| **Front-End** | **HTML5** ,**CSS3** |
+| **Front-End** | **HTML5**, **CSS3** |
 
 ## 📧 Conecte-se Comigo
 
