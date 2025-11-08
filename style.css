@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1A3D64;
+}
+
+header {
+    display: flex;
+    background-color: #0C2B4E;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+#icon_nicolas {
+    background-color: white;
+    width: 50px;
+    margin-right: 200px;
+    margin-left: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: white;
+}
+
+.aba_cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 20px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin-right: 100px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #1D546C;
+}
+
+#instagram_logo {
+    width: 50px;
+    margin-top: 2px;
+    margin-right: 10px;
+}
+
+#github_logo {
+    width: 35px;
+}
+
+#titulo {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin-top: 5%;
+}
+
+#sub_texto {
+    margin-top: 1%;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tecnologias {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    background-color: #1D546C;
+    margin-right: 40%;
+    margin-left: 40%;
+    border-radius: 50px;
+}
+
+.logos {
+    width: 50px;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.sobre_mim {
+    background-color: white;
+    padding: 25px;
+    border-radius: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0C2B4E;
+}
+
+#resumos {
+    display: flex;
+    justify-content: space-evenly; 
+    margin-top: 40px;
+}
