@@ -108,7 +108,7 @@ a {
 }
 
 .tituloProjetos {
-    margin-top: 50px;
+    margin-top: 100px;
     color: aliceblue;
     display: flex;
     justify-content: center;
@@ -157,17 +157,17 @@ a {
 }
 
 #contatos {
-    margin-left: 740px;
-    margin-top: 80px;
+    display: flex;
+    justify-content: center;
     color: white;
 }
 
 .contatos {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     background-color: white;
-    margin-left: 600px;
-    margin-right: 600px;
+    margin-left: 680px;
+    margin-right: 680px;
     height: 70px;
     border-radius: 10px;
 }
@@ -180,11 +180,13 @@ a {
 .instagram_logo {
     width: 70px;
     margin-top: -1px;
+    margin-left: 6px;
 }
 
 .gmail_logo {
     width: 50px;
-    margin-top: 6px;
+    margin-right: 10px;
+    margin-top: 7px;
 }
 
 .gmail_logo:hover {
