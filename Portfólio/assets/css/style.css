@@ -1,0 +1,200 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+    margin-bottom: 50px;
+    padding: 0;
+    background-color: #1A3D64;
+}
+
+header {
+    display: flex;
+    background-color: #0C2B4E;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+#icon_nicolas {
+    background-color: white;
+    width: 50px;
+    margin-right: 200px;
+    margin-left: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: white;
+}
+
+.aba_cabecalho:hover {
+    transform: scale(1.20);
+    background-color: rgb(202, 202, 202);
+}
+
+.aba_cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 20px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 100px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #1D546C;
+}
+
+.instagram_logo {
+    width: 50px;
+    margin-top: 2px;
+    margin-right: 10px;
+}
+
+#titulo {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-style: italic;
+    margin-top: 5%;
+}
+
+#sub_texto {
+    margin-top: 1%;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+
+}
+
+#tecnologias {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    background-color: #1D546C;
+    box-shadow: 0px 0px 20px black;
+    margin-right: auto;
+    margin-left: auto;
+    width: 30%;
+    border-radius: 50px;
+}
+
+.logos {
+    width: 50px;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.sobre_mim {
+    background-color: white;
+    padding: 25px;
+    border-radius: 50px;
+    color: #0C2B4E;
+    box-shadow: 0px 0px 20px black;
+}
+
+#resumos {
+    display: flex;
+    justify-content: space-evenly; 
+    margin-top: 40px;
+}
+
+.tituloProjetos {
+    margin-top: 50px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+.projetos {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 50px;
+    padding-bottom: 20px;
+    box-shadow: 10px 10px 10px;
+    padding-top: 30px;
+}
+
+.img_projetos {
+    width: 60%;
+    border: solid black;
+    box-shadow: 0px 0px 20px black;
+}
+
+.github_logo_projetos {
+    margin-top: 10px;
+    width: 50px;
+}
+
+.github_logo_projetos:hover {
+    transform: scale(1.05);
+}
+
+
+.aba_cabecalho_logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 20px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    margin-right: 100px;
+    font-size: 20px;
+}
+
+#contatos {
+    margin-left: 740px;
+    margin-top: 80px;
+    color: white;
+}
+
+.contatos {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    margin-left: 600px;
+    margin-right: 600px;
+    height: 70px;
+    border-radius: 10px;
+}
+
+.github_logo {
+    width: 50px;
+    margin-top: 10px;
+}
+
+.instagram_logo {
+    width: 70px;
+    margin-top: -1px;
+}
+
+.gmail_logo {
+    width: 50px;
+    margin-top: 6px;
+}
+
+.gmail_logo:hover {
+    transform: scale(1.05);
+}
+
+.instagram_logo:hover {
+transform: scale(1.05);
+}
+
+.github_logo:hover {
+    transform: scale(1.05);
+}
